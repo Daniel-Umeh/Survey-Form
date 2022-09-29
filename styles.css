@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    color: white;
+    padding: 15px;
+  }
+  
+  h1, p{
+    text-align: center;
+  }
+  
+  .first{
+    display: block;
+  }
+  
+  .menu{
+  background-color: blue;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px
+  }
+  
+  input[type="submit"]{
+    display: block;
+    color: white;
+    background-color: green;
+    border-color: green;
+  }
